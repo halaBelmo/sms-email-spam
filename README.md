@@ -8,7 +8,7 @@ The system preprocesses text data, converts it into numerical features using vec
 
 Text preprocessing (lowercasing, removing punctuation, stopwords, etc.)
 
-Text vectorization using:
+# Text vectorization using:
 
 Bag of Words (CountVectorizer)
 
